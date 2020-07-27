@@ -1,1 +1,2 @@
-# utd-big-data
+# Big Data
+The big Data landscape is continuously evolving as new technologies emerge and existing technologies mature. This is comprehensive course covering Spark and key elements of the Hadoop Ecosystem used in developing end-to-end applications for processing Big Data efficiently. Students who complete this course will understand key Spark and Hadoop concepts, and they will learn to apply Spark and Hadoop tools in developing applications for solving the types of problems faced by enterprises and research institutions today. The tools covered in this course include Sqoop, Hive, Impala, Pig, Flume, and Spark.
